@@ -1,3 +1,9 @@
+/*
+    Creator: Mikk4eee
+    Github: https://github.com/Mikk4eee/
+    Number Guessing Game
+*/
+
 #include <iostream>
 #include <cstdlib>
 #include <windows.h>
